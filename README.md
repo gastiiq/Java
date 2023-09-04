@@ -25,29 +25,6 @@
 </details> </p>
 
 
-Entregado:
-
-_Trabajo Practico N°8. Circuito y Archivo .INO_
-
-_Trabajo Practico N°7. Circuito y Archivo .INO_
-
-_Trabajo Practico N°6. Circuito y Archivo .INO_
-
-_Trabajo Practico N°5. Circuito y Archivo .INO_
-
-_Trabajo Practico N°4. Circuito y Archivo .INO_
-
-_Trabajo Practico N°3. Circuito y Archivo .INO_
-
-_Trabajo Practico N°2. Circuito y Archivo .INO_
-
-_Trabajo Practico N°1. Circuito y Archivo .INO_
-
-Trabajo Practico N°0. Seguido paso a paso
-
-_Guia de ejercicios Parte 1, 2 y 3_
-
-
 The Markdown will be collapsed by default.
 
 ![Rendered collapsed](/assets/images/help/writing/collapsed-section-view.png)
