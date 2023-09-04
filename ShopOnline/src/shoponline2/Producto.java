@@ -27,7 +27,7 @@ package shoponline2;
     public void setDesc(String desc) {
         this.desc = desc;
     }
-
+// ¿Qué significa que este método sea abstracto?
     public abstract double getPrecio();
 
     public void setPrecio(double precio) {
